@@ -1,0 +1,2378 @@
+<!DOCTYPE html>
+<!-- Last Published: Fri May 06 2022 07:53:16 GMT+0000 (Coordinated Universal Time) -->
+<html data-wf-domain="www.betu.io" data-wf-page=
+"60c34da0dc6e7c6acd4cd719" data-wf-site="60c34da0dc6e7ca3684cd718">
+<head>
+  <meta charset="utf-8">
+  <title>BetU | Sports & Esports Betting, BETU Crypto Token -
+  Project</title>
+  <meta content=
+  "BetU is a sports, esports & crypto betting platform. The BETU crypto token also powers the BetU Play-To-Earn game and the BetU Verse metaverse & NFT’s."
+  name="description">
+  <meta content=
+  "BetU | Sports & Esports Betting, BETU Crypto Token - Project"
+  property="og:title">
+  <meta content=
+  "BetU is a sports, esports & crypto betting platform. The BETU crypto token also powers the BetU Play-To-Earn game and the BetU Verse metaverse & NFT’s."
+  property="og:description">
+  <meta content=
+  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60dea9c0b421be4b920cc298_OG-min.jpg"
+  property="og:image">
+  <meta content=
+  "BetU | Sports & Esports Betting, BETU Crypto Token - Project"
+  property="twitter:title">
+  <meta content=
+  "BetU is a sports, esports & crypto betting platform. The BETU crypto token also powers the BetU Play-To-Earn game and the BetU Verse metaverse & NFT’s."
+  property="twitter:description">
+  <meta content=
+  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60dea9c0b421be4b920cc298_OG-min.jpg"
+  property="twitter:image">
+  <meta property="og:type" content="website">
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="width=device-width, initial-scale=1" name=
+  "viewport">
+  <link href=
+  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/css/betu-global.webflow.e0c23e26f.css"
+  rel="stylesheet" type="text/css">
+  <style>
+  @media (min-width:992px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="2032def1-4726-4871-1f04-cfb7d4d77a33"] {-webkit-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b81a5"] {-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b819f"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8199"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8193"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b818d"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8187"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8181"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b817b"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8175"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="dcb862e5-e9cc-48d3-37b0-51b3e54da010"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461aefe"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af01"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af03"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af05"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="bb66f0d8-d131-1299-e71d-2020c99c8084"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="bc1fbcab-0f2c-564b-8384-d3eb4ee4bb53"] {opacity:0;}}@media (max-width:991px) and (min-width:768px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b81a5"] {-webkit-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 20px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b819f"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8199"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8193"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b818d"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8187"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8181"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b817b"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8175"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="dcb862e5-e9cc-48d3-37b0-51b3e54da010"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461aefe"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af01"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af03"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af05"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="bb66f0d8-d131-1299-e71d-2020c99c8084"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="bc1fbcab-0f2c-564b-8384-d3eb4ee4bb53"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="2032def1-4726-4871-1f04-cfb7d4d77a33"] {-webkit-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}}@media (max-width:767px) and (min-width:480px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="2032def1-4726-4871-1f04-cfb7d4d77a33"] {-webkit-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}html.w-mod-js:not(.w-mod-ix) [data-w-id="dcb862e5-e9cc-48d3-37b0-51b3e54da010"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461aefe"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af01"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af03"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af05"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="bb66f0d8-d131-1299-e71d-2020c99c8084"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="bc1fbcab-0f2c-564b-8384-d3eb4ee4bb53"] {opacity:0;}}@media (max-width:479px) {html.w-mod-js:not(.w-mod-ix) [data-w-id="dcb862e5-e9cc-48d3-37b0-51b3e54da010"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461aefe"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af01"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af03"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="b58a307a-840c-2727-a1be-c09a1461af05"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="bb66f0d8-d131-1299-e71d-2020c99c8084"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="bc1fbcab-0f2c-564b-8384-d3eb4ee4bb53"] {opacity:0;}html.w-mod-js:not(.w-mod-ix) [data-w-id="2032def1-4726-4871-1f04-cfb7d4d77a33"] {-webkit-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0px, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);}}
+  </style>
+  <!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" type="text/javascript"></script><![endif]-->
+  <script type="text/javascript">
+  !function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);
+  </script>
+  <link href=
+  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60cc3144a1155a79527762a4_32x32.png"
+  rel="shortcut icon" type="image/x-icon">
+  <link href=
+  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60cc31460529c6214c1c3c27_32x32-1.png"
+  rel="apple-touch-icon">
+  <link rel="shortcut icon" href=
+  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61320ede51d1ac060f7099e0_betulogo.png">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+
+  <script async src=
+  "https://www.googletagmanager.com/gtag/js?id=G-CR3M16GS19"></script>
+  <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-CR3M16GS19');
+  </script>
+</head>
+<body class="betu-body">
+  <div class="loader-wrap">
+    <div class="loader-slide-wrap">
+      <div class="loader-bolt"></div>
+    </div>
+  </div>
+  <div class="header with-notification wf-section">
+    <div class="mobile-nav-master">
+      <div class="mobile-nav-top">
+        <div class="header-container mobile-nav-container">
+          <div class="mobile-nav-top-left">
+            <a data-w-id="54e0fe72-c673-763e-580c-495f8db28c44"
+            href="/" aria-current="page" class=
+            "header-link-logo w-inline-block w--current"><img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d05b1f97a175db8861f440_logo-black.svg"
+            loading="lazy" alt=""></a>
+          </div>
+          <div class="mobile-top-right">
+            <a href="https://discord.com/invite/betu" target=
+            "_blank" class="cta black mobile-nav w-button">Join
+            Discord</a>
+            <div data-w-id="54e0fe72-c673-763e-580c-495f8db28c49"
+            class="hamburger-wrap mobile-nav-hamburger">
+              <div class="hamburger-line x1"></div>
+              <div class="hamburger-line x2"></div>
+            </div>
+          </div>
+        </div>
+        <div class="mobile-nav-line"></div>
+      </div>
+      <div class="mobile-nav-main-content">
+        <div class="mobile-nav-links-wrap">
+          <div class="link-group-wrap first-group">
+            <div class="nav-links-group-top">
+            <div class="link-group-heading">
+              About BetU
+            </div><img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61cb96bda5dc1e413e5e4834_chevron-brown.svg"
+            loading="lazy" alt="" class=
+            "chevron-image-links-group"></div>
+            <div class="link-group-only">
+              <a href="/#industry" class=
+              "mobile-nav-link">Industry</a><a href="/#platform"
+              class="mobile-nav-link">Platform</a><a href=
+              "/#ecosystem" class=
+              "mobile-nav-link">Ecosystem</a><a href="/team" class=
+              "mobile-nav-link">Team</a><a href="/blog" class=
+              "mobile-nav-link">Blog</a>
+            </div>
+          </div>
+          <div class="link-group-wrap second-group">
+            <div data-w-id="54e0fe72-c673-763e-580c-495f8db28c60"
+            class="nav-links-group-top">
+            <div class="link-group-heading">
+              Our Products
+            </div><img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61cb96bda5dc1e413e5e4834_chevron-brown.svg"
+            loading="lazy" alt="" class=
+            "chevron-image-links-group"></div>
+            <div class="link-group-only">
+              <a href="/#betuplatform" class=
+              "mobile-nav-link w-inline-block">
+              <div>
+                BetU
+              </div>
+              <p class="small-paragraph-mobile-product">Sports,
+              esports & crypto betting platform. Secured by smart
+              contracts & powered by the BETU
+              token.</p></a><a href="https://earnu.io/" class=
+              "mobile-nav-link w-inline-block">
+              <div>
+                EarnU
+              </div>
+              <p class="small-paragraph-mobile-product">FREE to
+              play for BETU token holders. Get paid 100% of your
+              winnings. Risk free betting. No
+              gambling.</p></a><a href="http://betuverse.io" class=
+              "mobile-nav-link w-inline-block">
+              <div>
+                BetU Verse
+              </div>
+              <p class="small-paragraph-mobile-product">Licensed
+              Metaverse Hotel & Casino. Immersive experience
+              allowing you to create income generating NFT
+              collections.</p></a>
+            </div>
+          </div>
+          <div class="social-master">
+            <div class="social-text-top">
+              Our social media
+            </div>
+            <div class="mobile-nav-social-wrap">
+              <a href="https://t.me/betucommunity" class=
+              "social-circle s1 w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d05fee1f37e1e1f3f9e43f_telegram%201.svg"
+              loading="lazy" alt="Telegram" class=
+              "social-image"></a><a href=
+              "https://twitter.com/betuglobal" class=
+              "social-circle s2 w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1c07b8639acac5be8c67a_twitter%201.svg"
+              loading="lazy" alt="Twitter" class=
+              "social-image"></a><a href=
+              "https://discord.com/invite/betu" target="_blank"
+              class="social-circle s2 w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61a3761f50cea9fdd29f8c6a_discord.svg"
+              loading="lazy" alt="" class=
+              "social-image"></a><a href=
+              "https://instagram.com/betuglobal" class=
+              "social-circle s3 w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d05fee76f35fffd9f787a7_instagram%201.svg"
+              loading="lazy" alt="Instagram" class=
+              "social-image"></a><a href=
+              "https://reddit.com/r/betuglobal" class=
+              "social-circle s4 w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1c07bfbcd54064746f417_reddit%201.svg"
+              loading="lazy" alt="Reddit" class=
+              "social-image"></a><a href=
+              "https://www.youtube.com/channel/UCgwmS0tGe20H9tz0-_9AWow"
+              target="_blank" class=
+              "social-circle s5 w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61278ebdc65ee07f5f7ec715_youtube-white.svg"
+              loading="lazy" alt="" class="social-image"></a>
+            </div>
+          </div>
+          <div class="exchanges-master">
+            <div class="social-text-top">
+              BETU is listed on:
+            </div>
+            <div class="mobile-nav-social-wrap exchanges">
+              <a href=
+              "https://pancakeswap.finance/info/token/0x0df1b3f30865c5b324797f8db9d339514cac4e94"
+              target="_blank" class=
+              "exchange-mobile-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6137722ac2e0c00948c60755_psdark.svg"
+              loading="lazy" alt="" class=
+              "exchange-mobile-img"></a><a href=
+              "https://www.bitmart.com/trade/en?symbol=BETU_USDT"
+              target="_blank" class=
+              "exchange-mobile-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/614d907224a77a50262201ea_bitmartblack.svg"
+              loading="lazy" alt="" class=
+              "exchange-mobile-img bm-mobile"></a><a href=
+              "https://www.coingecko.com/en/coins/betu" target=
+              "_blank" class=
+              "exchange-mobile-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6137722a10d725d27557a4a3_Coingecko-dark.svg"
+              loading="lazy" alt="" class=
+              "exchange-mobile-img"></a><a href=
+              "https://coinmarketcap.com/currencies/betu/" target=
+              "_blank" class=
+              "exchange-mobile-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6137722bb1a5d56c8a601fab_cmc-dark.svg"
+              loading="lazy" alt="" class=
+              "exchange-mobile-img"></a><a href=
+              "https://www.gate.io/trade/BETU_USDT" target="_blank"
+              class="exchange-mobile-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/618c18c4ef2495bb08e47d84_gtwhite.svg"
+              loading="lazy" alt="" class=
+              "exchange-mobile-img"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="header-nav-wrap">
+      <div class="header-container">
+        <div class="header-left">
+          <a href="/" aria-current="page" class=
+          "header-link-logo w-inline-block w--current"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c729d384e339748edd9e8d_bet-u-logo.svg"
+          loading="lazy" alt="BetU Logo"></a>
+        </div>
+        <div class="header-right">
+          <div class="header-right-links-wrap">
+            <div data-hover="false" data-delay="0" class=
+            "header-dropdown w-dropdown">
+              <div class=
+              "header-dropdown-toggle w-dropdown-toggle">
+                <div>
+                  About BetU
+                </div>
+              </div>
+              <nav class="dropdown-list-header w-dropdown-list">
+                <a href="/#industry" target="_blank" class=
+                "header-dropdown-link only-links w-inline-block">
+                <div>
+                  Industry
+                </div></a><a href="/#platform" target="_blank"
+                class=
+                "header-dropdown-link only-links w-inline-block">
+                <div>
+                  Platform
+                </div></a><a href="/#ecosystem" target="_blank"
+                class=
+                "header-dropdown-link only-links w-inline-block">
+                <div>
+                  Ecosystem
+                </div></a><a href="/#token" target="_blank" class=
+                "header-dropdown-link only-links w-inline-block">
+                <div>
+                  Token
+                </div></a><a href="/team" class=
+                "header-dropdown-link only-links w-inline-block">
+                <div>
+                  Team
+                </div></a><a href="https://betu-1.gitbook.io/betu/"
+                class=
+                "header-dropdown-link last-link only-links w-inline-block">
+                <div>
+                  Whitepaper
+                </div></a><a href="/blog" class=
+                "header-dropdown-link last-link only-links w-inline-block">
+                <div>
+                  Blog
+                </div></a>
+              </nav>
+            </div>
+            <div data-hover="false" data-delay="0" class=
+            "header-dropdown w-dropdown">
+              <div class=
+              "header-dropdown-toggle w-dropdown-toggle">
+                <div>
+                  Exchanges
+                </div>
+              </div>
+              <nav class="dropdown-list-header w-dropdown-list">
+                <a href=
+                "https://pancakeswap.finance/info/token/0x0df1b3f30865c5b324797f8db9d339514cac4e94"
+                target="_blank" class=
+                "header-dropdown-link w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61320d4b6565e5cda90510f9_pancakelogo.svg"
+                loading="lazy" alt="" class=
+                "exchange-img ps"></a><a href=
+                "https://www.bitmart.com/trade/en?symbol=BETU_USDT"
+                target="_blank" class=
+                "header-dropdown-link w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/614d8f62fbc157b122aa9758_bitmartwhite.svg"
+                loading="lazy" alt="" class=
+                "exchange-img bm"></a><a href=
+                "https://www.gate.io/trade/BETU_USDT" target=
+                "_blank" class=
+                "header-dropdown-link w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/618c18c4ef2495bb08e47d84_gtwhite.svg"
+                loading="lazy" alt="" class=
+                "exchange-img gate"></a><a href=
+                "https://www.coingecko.com/en/coins/betu" target=
+                "_blank" class=
+                "header-dropdown-link w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6137707040fd4bd337e0530a_Coingecko.svg"
+                loading="lazy" alt="" class=
+                "exchange-img coingecko"></a><a href=
+                "https://coinmarketcap.com/currencies/betu/"
+                target="_blank" class=
+                "header-dropdown-link w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61377071dc8fbf14800d1a10_cmc.svg"
+                loading="lazy" alt="" class="exchange-img cmc"></a>
+              </nav>
+            </div>
+            <div data-hover="false" data-delay="0" class=
+            "header-dropdown w-dropdown">
+              <div class=
+              "header-dropdown-toggle w-dropdown-toggle">
+                <div>
+                  Social media
+                </div>
+              </div>
+              <nav class="dropdown-list-header w-dropdown-list">
+                <a href="https://t.me/betucommunity" target=
+                "_blank" class=
+                "header-dropdown-link w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d05fee1f37e1e1f3f9e43f_telegram%201.svg"
+                loading="lazy" alt="Telegram" class=
+                "header-social-img">
+                <div>
+                  Telegram
+                </div></a><a href="https://twitter.com/betuglobal"
+                target="_blank" class=
+                "header-dropdown-link w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1c07b8639acac5be8c67a_twitter%201.svg"
+                loading="lazy" alt="Twitter" class=
+                "header-social-img">
+                <div>
+                  Twitter
+                </div></a><a href=
+                "https://instagram.com/betuglobal" target="_blank"
+                class=
+                "header-dropdown-link w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d05fee76f35fffd9f787a7_instagram%201.svg"
+                loading="lazy" alt="Instagram" class=
+                "header-social-img">
+                <div>
+                  Instagram
+                </div></a><a href="https://discord.gg/betu" target=
+                "_blank" class=
+                "header-dropdown-link w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61a3761f50cea9fdd29f8c6a_discord.svg"
+                loading="lazy" alt="" class="header-social-img">
+                <div>
+                  Discord
+                </div></a><a href="https://reddit.com/r/betuglobal"
+                target="_blank" class=
+                "header-dropdown-link w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1c07bfbcd54064746f417_reddit%201.svg"
+                loading="lazy" alt="Reddit" class=
+                "header-social-img">
+                <div>
+                  Reddit
+                </div></a><a href=
+                "https://www.youtube.com/channel/UCgwmS0tGe20H9tz0-_9AWow"
+                target="_blank" class=
+                "header-dropdown-link last-link w-inline-block"><img src="https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61278ebdc65ee07f5f7ec715_youtube-white.svg"
+                loading="lazy" alt="" class="header-social-img">
+                <div>
+                  YouTube
+                </div></a>
+              </nav>
+            </div>
+          </div><a href="https://discord.com/invite/betu" target=
+          "_blank" class="cta header-cta w-inline-block">
+          <div class="cta-text">
+            Join Discord
+          </div></a><a href="https://discord.com/invite/betu"
+          target="_blank" class=
+          "cta header-cta mobile w-inline-block">
+          <div class="cta-text">
+            Join Discord
+          </div></a>
+          <div data-w-id="828f272c-f5a7-45bb-9db2-38eff76151d8"
+          class="hamburger-wrap">
+            <div class="hamburger-line"></div>
+            <div class="hamburger-line l2"></div>
+            <div class="hamburger-line l3"></div>
+          </div>
+          <div class="verse-betu-links-wrap">
+            <div class="betu-links-divider"></div>
+            <div data-hover="false" data-delay="0" class=
+            "header-dropdown dropdown-products w-dropdown">
+              <div class=
+              "header-dropdown-toggle w-dropdown-toggle">
+                <div>
+                  Platforms
+                </div>
+              </div>
+              <nav class=
+              "dropdown-list-header products-dropdown w-dropdown-list">
+                <a href="/" aria-current="page" class=
+                "menu-single-product-wrap w-inline-block w--current">
+                <img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c729d384e339748edd9e8d_bet-u-logo.svg"
+                loading="lazy" alt="" class="product-logo-menu">
+                <p class="paragrap-product-menu">Sports, esports &
+                crypto betting platform. Secured by smart contracts
+                & powered by the BETU token.</p></a><a href=
+                "https://earnu.io/" target="_blank" class=
+                "menu-single-product-wrap middle w-inline-block"><img src="https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6230529b45dbe5f1bdc2fce5_earn-u-logo-white.svg"
+                loading="lazy" alt="" class="product-logo-menu">
+                <p class="paragrap-product-menu">Predict-to-earn
+                sports & esports game.  Free to play
+                for BETU token holders. Earn crypto rewards
+                for correct predictions.</p></a><a href=
+                "http://betuverse.io" target="_blank" class=
+                "menu-single-product-wrap w-inline-block"><img src=
+                "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61b67497a6202006a85dba28_verselogo.svg"
+                loading="lazy" alt="" class=
+                "product-logo-menu verse-logo">
+                <p class="paragrap-product-menu">Licensed metaverse
+                resort & casino. Immersive experience
+                allowing you to own income generating NFT
+                collections.</p></a>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section hero wf-section">
+    <div class="main-container">
+      <div class="hero-content-wrap">
+        <img src=
+        "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60dea87c7baa82e874409b2b_hero-betu-mobile-min.png"
+        loading="lazy" style="opacity:0" data-w-id=
+        "64c4a818-c838-c730-2714-e3934f246695" srcset=
+        "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60dea87c7baa82e874409b2b_hero-betu-mobile-min-p-500.png 500w, https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60dea87c7baa82e874409b2b_hero-betu-mobile-min.png 1676w"
+        sizes=
+        "(max-width: 479px) 88vw, (max-width: 767px) 80vw, (max-width: 991px) 450px, 100vw"
+        alt="" class="mobile-hero-image">
+        <h1 data-w-id="daf227f7-9f71-a68e-c4ae-0ad31389a497" style=
+        "opacity:0">Better Odds<span class=
+        "yellow-dot">.</span><br>
+        Bigger Winnings<span class="yellow-dot">.</span></h1>
+        <p data-w-id="53eb4fe7-ef62-64f3-e9da-daa04b1815e3" style=
+        "-webkit-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 15px, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0"
+        class="subheading-hero">Sports, esports & crypto betting
+        platform. Secured by smart contracts & powered by<br>
+        the BETU token.</p>
+        <div class="cta-wrap-hero">
+          <a href="/#products" class=
+          "cta big hero-home w-button">Explore
+          Platforms</a><a href="https://earnu.io/" target="_blank"
+          class="cta big secondary w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6230529b45dbe5f1bdc2fce5_earn-u-logo-white.svg"
+          loading="lazy" alt="" class="logo-cta-pte"></a>
+        </div>
+        <div class="countdown-wrap">
+          <div class="listing-on-wrap">
+          <div class="pres-sale-heading">
+            BetU is listing on
+          </div><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61320d4b6565e5cda90510f9_pancakelogo.svg"
+          loading="lazy" alt="" class="hero-exchange-img"></div>
+          <div class="countdown-embed w-embed w-script">
+            <style>
+            .countdown-timer{
+            pointer-events: none;
+            margin: 0px;
+            }
+            </style>
+            <script src=
+            "https://cdn.logwork.com/widget/countdown.js"></script>
+            <a href="https://logwork.com/countdown-qfa3" class=
+            "countdown-timer" data-style="circles" data-timezone=
+            "Atlantic/Reykjavik" data-textcolor="#2e2e2e"
+            data-date="2021-09-03 19:00" data-background="#f8cb48"
+            data-digitscolor="#ffffff" data-unitscolor=
+            "#ffffff">Pancake Listing in:</a>
+          </div><a href="http://www.ico.betu.io" target="_blank"
+          class="cta countdown-cta w-inline-block">
+          <div class="cta-text">
+            Join Pre Sale
+          </div></a>
+        </div>
+      </div>
+    </div><img src=
+    "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60dea87c7baa82e874409b2b_hero-betu-mobile-min.png"
+    loading="lazy" style="opacity:0" data-w-id=
+    "26d2110e-ebfa-88ab-56c3-61a10f9fdea2" srcset=
+    "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60dea87c7baa82e874409b2b_hero-betu-mobile-min-p-500.png 500w, https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60dea87c7baa82e874409b2b_hero-betu-mobile-min.png 1676w"
+    sizes="(max-width: 991px) 100vw, 51vw" alt="" class=
+    "hero-image"><a href="#" data-w-id=
+    "ee056531-4aea-7b13-d966-41f0e8dd16aa" style="opacity:0" class=
+    "watch-video-master w-inline-block w-lightbox"><img src=
+    "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61278d3e52a5e181e28a084a_watch-video.svg"
+    loading="lazy" data-w-id="ee056531-4aea-7b13-d966-41f0e8dd16ab"
+    alt="" class="watch-rotate"><img src=
+    "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61278d3e52a5e17c628a084b_play.svg"
+    loading="lazy" alt="" class="play-not-rotate">
+    <script type="application/json" class="w-json">
+    {
+    "items": [
+    {
+      "url": "https://youtube.com/watch?v=1XvIpsoTWVk",
+      "originalUrl": "https://youtube.com/watch?v=1XvIpsoTWVk",
+      "width": 940,
+      "height": 528,
+      "thumbnailUrl": "https://i.ytimg.com/vi/1XvIpsoTWVk/hqdefault.jpg",
+      "html": "<iframe class=\"embedly-embed\" src=\"//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F1XvIpsoTWVk%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1XvIpsoTWVk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F1XvIpsoTWVk%2Fhqdefault.jpg&key=96f1f04c5f4143bcb0f2e68c87d65feb&type=text%2Fhtml&schema=youtube\" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen=\"true\"></iframe>",
+      "type": "video"
+    }
+    ],
+    "group": ""
+    }
+    </script></a>
+  </div>
+  <div class="section partners wf-section">
+    <div class="main-container">
+      <div class="partners-master-wrap">
+        <div data-w-id="1b60a6dd-7ca6-a2fe-f656-e6da5c4aab7d"
+        style="opacity:0" class="partners-left">
+          <div>
+            Partners &<br>
+            integrations
+          </div>
+        </div>
+        <div class="partner-right">
+          <a data-w-id="1b60a6dd-7ca6-a2fe-f656-e6da5c4aab83"
+          style="opacity:0" href="#" class=
+          "partner-link sotatek w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61759467d68895d098cf1306_logo-min%202-min.png"
+          loading="lazy" sizes=
+          "(max-width: 479px) 98.59375px, 82.90625px" srcset=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61759467d68895d098cf1306_logo-min%202-min-p-500.png 500w, https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61759467d68895d098cf1306_logo-min%202-min.png 800w"
+          alt="" class="partner-image"></a><a data-w-id=
+          "1b60a6dd-7ca6-a2fe-f656-e6da5c4aab85" style="opacity:0"
+          href="#" class=
+          "partner-link chain-link w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/617594651080df17929ebf2a_5f760a499b56c47b8fa74fbb_chainlink-logo%201.svg"
+          loading="lazy" alt="" class=
+          "partner-image"></a><a data-w-id=
+          "1b60a6dd-7ca6-a2fe-f656-e6da5c4aab87" style="opacity:0"
+          href="#" class=
+          "partner-link sport-radar w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61759467d1bd7717147a77c3_Group.svg"
+          loading="lazy" alt="" class=
+          "partner-image"></a><a data-w-id=
+          "1b60a6dd-7ca6-a2fe-f656-e6da5c4aab89" style="opacity:0"
+          href="#" class=
+          "partner-link onfido w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61759465d2ba225b88e4e11d_Group%20233.svg"
+          loading="lazy" alt="" class=
+          "partner-image"></a><a data-w-id=
+          "1b60a6dd-7ca6-a2fe-f656-e6da5c4aab8b" style="opacity:0"
+          href="#" class=
+          "partner-link accu w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/617594c83776fe4c8e2e93e5_accubits.png"
+          loading="lazy" sizes=
+          "(max-width: 479px) 59.1328125px, 49.2734375px" srcset=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/617594c83776fe4c8e2e93e5_accubits-p-500.png 500w, https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/617594c83776fe4c8e2e93e5_accubits.png 566w"
+          alt="" class="partner-image"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="products" class="section products-home wf-section">
+    <div class="main-container">
+      <div class="center-content limit-770 bot-mar-100">
+        <h2 class="h2-anim">3 PLATFORMS<span class=
+        "yellow-dot">.</span><br>
+        1 token<span class="yellow-dot">.</span></h2>
+        <p data-w-id="b4c69239-f2a6-07c4-8d6b-7dd0e13d520f" class=
+        "big-paragraph paragraph-limit-540">The BETU token is used
+        across our different<br>
+        digital ecosystems.</p>
+      </div>
+      <div class="w-layout-grid products-grid">
+        <div id=
+        "w-node-b4c69239-f2a6-07c4-8d6b-7dd0e13d5212-e13d5204"
+        data-w-id="b4c69239-f2a6-07c4-8d6b-7dd0e13d5212" class=
+        "single-product-wrap-home">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c729d384e339748edd9e8d_bet-u-logo.svg"
+          loading="lazy" alt="" class="logo-roduct-home">
+          <div class="divider-product"></div>
+          <p>Sports, esports & crypto betting platform. Secured by
+          smart contracts & powered by the BETU token.</p><a href=
+          "/#betuplatform" class="link-product">Learn more</a>
+        </div>
+        <div id=
+        "w-node-b4c69239-f2a6-07c4-8d6b-7dd0e13d5219-e13d5204"
+        data-w-id="b4c69239-f2a6-07c4-8d6b-7dd0e13d5219" class=
+        "single-product-wrap-home">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61b67497a6202006a85dba28_verselogo.svg"
+          loading="lazy" alt="" class=
+          "logo-roduct-home verse-logo">
+          <div class="divider-product"></div>
+          <p>Licensed metaverse resort & casino. Immersive
+          experience allowing you to own income generating NFT
+          collections.</p><a href="http://www.betuverse.io" class=
+          "link-product">Learn more</a>
+        </div>
+        <div id=
+        "w-node-b4c69239-f2a6-07c4-8d6b-7dd0e13d5220-e13d5204"
+        data-w-id="b4c69239-f2a6-07c4-8d6b-7dd0e13d5220" class=
+        "single-product-wrap-home">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6230529b45dbe5f1bdc2fce5_earn-u-logo-white.svg"
+          loading="lazy" alt="" class="logo-roduct-home">
+          <div class="divider-product"></div>
+          <p>Predict-to-earn sports & esports game. Free
+          to play for BETU token holders. Earn crypto rewards
+          for correct predictions.</p><a href="https://earnu.io/"
+          target="_blank" class="link-product">Learn more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section leagues-images wf-section">
+    <div class="main-container">
+      <div class="center-content limit-580">
+        <h2 class="h2-anim">BET ON YOUR LEAGUE<span class=
+        "yellow-dot">.<br>
+        ‍</span>YOUR WAY<span class="yellow-dot">.</span></h2>
+      </div>
+    </div>
+    <div class="leagues-container-images">
+      <div class="leagues-gradient"></div>
+      <div class="leagues-gradient right-gradient"></div>
+      <div data-w-id="2032def1-4726-4871-1f04-cfb7d4d77a33" style=
+      "opacity:0" class="leagues-grid-wrap-images">
+        <div class="league-grid-images">
+          <div class="league-single-league">
+            <div class="sport-wrap s1"></div>
+            <h3 class="h3-league">ATP Tour</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s2"></div>
+            <h3 class="h3-league">AFL</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s3"></div>
+            <h3 class="h3-league">MLB</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s4"></div>
+            <h3 class="h3-league">NBA</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s5"></div>
+            <h3 class="h3-league">ICC</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s6"></div>
+            <h3 class="h3-league">Dota 2</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s7"></div>
+            <h3 class="h3-league">NFL</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s8"></div>
+            <h3 class="h3-league">Formula 1</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s9"></div>
+            <h3 class="h3-league">PGA Tour</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s10"></div>
+            <h3 class="h3-league">NHL</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s11"></div>
+            <h3 class="h3-league">League of Legends</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s12"></div>
+            <h3 class="h3-league">UFC</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s13"></div>
+            <h3 class="h3-league">EPL</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s14"></div>
+            <h3 class="h3-league">CS: GO</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s15"></div>
+            <h3 class="h3-league">Horse Racing</h3>
+          </div>
+        </div>
+        <div class="league-grid-images">
+          <div class="league-single-league">
+            <div class="sport-wrap s1"></div>
+            <h3 class="h3-league">ATP Tour</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s2"></div>
+            <h3 class="h3-league">AFL</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s3"></div>
+            <h3 class="h3-league">MLB</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s4"></div>
+            <h3 class="h3-league">NBA</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s5"></div>
+            <h3 class="h3-league">ICC</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s6"></div>
+            <h3 class="h3-league">Dota 2</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s7"></div>
+            <h3 class="h3-league">NFL</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s8"></div>
+            <h3 class="h3-league">Formula 1</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s9"></div>
+            <h3 class="h3-league">PGA Tour</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s10"></div>
+            <h3 class="h3-league">NHL</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s11"></div>
+            <h3 class="h3-league">League of Legends</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s12"></div>
+            <h3 class="h3-league">UFC</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s13"></div>
+            <h3 class="h3-league">EPL</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s14"></div>
+            <h3 class="h3-league">CS: GO</h3>
+          </div>
+          <div class="league-single-league">
+            <div class="sport-wrap s15"></div>
+            <h3 class="h3-league">Horse Racing</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="background-wrap-one">
+    <div id="industry" class="section business wf-section">
+      <div class="main-container">
+        <div class="business-content-wrap">
+          <div class="limit-590">
+            <h2 class="h2-anim">sports betting is<br>
+            big business<span class="yellow-dot">.</span></h2>
+            <p data-w-id="5f5d8e43-3068-29c9-96b1-0d2c6f0b02ad"
+            style="opacity:0" class=
+            "big-paragraph paragraph-limit-500">Sports betting is a
+            rapidly growing industry monopolised by global
+            bookmakers earning billions of dollars in revenue every
+            year.</p>
+          </div>
+        </div>
+      </div><img src=
+      "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1b9fd523b45f1b61c6b48_industry-mobile.png"
+      loading="lazy" style="opacity:0" data-w-id=
+      "16004073-5656-d6e9-ba94-b7dd25b667ed" srcset=
+      "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1b9fd523b45f1b61c6b48_industry-mobile-p-500.png 500w, https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1b9fd523b45f1b61c6b48_industry-mobile-p-800.png 800w, https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1b9fd523b45f1b61c6b48_industry-mobile.png 1024w"
+      sizes="100vw" alt="" class="business-mobile-image">
+      <div class="main-container">
+        <div class="business-content-wrap">
+          <div class="numbers-master-wrap">
+            <div class="single-number-wrap">
+              <div class="number">
+                $4.3 <span class="billion-span">BILLION</span>
+              </div>
+              <div class="number-info">
+                Wagered on Super Bowl LV
+              </div>
+            </div>
+            <div class="single-number-wrap">
+              <div class="number">
+                $23.5 <span class="billion-span">BILLION</span>
+              </div>
+              <div class="number-info">
+                Wagered annually on esports
+              </div>
+            </div>
+            <div class="single-number-wrap">
+              <div class="number">
+                $169.8 <span class="billion-span">BILLION</span>
+              </div>
+              <div class="number-info">
+                Wagered annually on sports online
+              </div>
+            </div>
+            <div class="single-number-wrap last">
+              <div class="number">
+                $391 <span class="billion-span">billion</span>
+              </div>
+              <div class="number-info">
+                Wagered annually on sports
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="section power-back wf-section">
+      <div class="main-container">
+        <div class="powar-back-text">
+          <span data-w-id="01ffd01a-8570-09f3-d77c-8a041284f260"
+          style="opacity:0">BETU</span><br>
+          <span data-w-id="6e9d2785-28a0-7b12-dd32-b6cf6b5996dd"
+          style="opacity:0">BRINGS</span><br>
+          <span data-w-id="34e074c8-bb34-0532-7b64-7c79e9d444d9"
+          style="opacity:0">POWER</span><br>
+          <span data-w-id="e96c4229-eaa9-124f-6bd9-eaff72d381fa"
+          style="opacity:0">BACK TO</span><br>
+          <span data-w-id="bea2ecd7-3e14-e013-b7f0-a5c71a47ae2c"
+          style="opacity:0">THE PEOPLE</span>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="betuplatform" class="section ecosystem wf-section">
+    <div class="main-container">
+      <div id="platform" data-w-id=
+      "f4ee9431-0467-c148-c9b2-7e80193517f8" class=
+      "dashboard-wrap"><img class="betu-dashboard" src=
+      "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1bcaa4b2da1996040317e_Mockup-min.png"
+      alt="BETU Dashboard for sports & esports betting" style=
+      "opacity:0" sizes=
+      "(max-width: 479px) 88vw, (max-width: 991px) 92vw, 840px"
+      data-w-id="eedb69cd-7653-5054-6d1d-07acea3b7b2b" loading=
+      "lazy" srcset=
+      "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1bcaa4b2da1996040317e_Mockup-min-p-500.png 500w, https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1bcaa4b2da1996040317e_Mockup-min-p-800.png 800w, https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1bcaa4b2da1996040317e_Mockup-min-p-1080.png 1080w, https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1bcaa4b2da1996040317e_Mockup-min.png 1744w"></div>
+      <div id="ecosystem" class="ecosystem-master">
+        <h2 class="h2-anim">How the betu ecosystem works?</h2>
+        <div class="ecosystem-12-grid">
+          <div id=
+          "w-node-_7e3c3104-2888-7ee8-9855-ef32f8ab2239-cd4cd719"
+          class="illustration-wrap-12"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6bdffa03d155192723641_BetIllu1.svg"
+          loading="lazy" style="opacity:0" data-w-id=
+          "5c8b989b-8f89-8a52-f675-89c970524535" alt=
+          "Bet Maker & Bet Taker" class=
+          "ecosystem-ilu-12"></div>
+          <div id=
+          "w-node-_4c582d49-e360-48a6-4a4b-35302145e3ea-cd4cd719"
+          class="eco-step-wrap center-mobile">
+            <h3 class="h3-step">Bet maker</h3>
+            <p class="p-step">Be your own bookmaker and set the
+            terms of any bet.</p>
+            <div class="step-number">
+              1
+            </div>
+          </div>
+          <div id=
+          "w-node-_8ba87c9a-eac1-6c4e-a56f-ffd7ef75cb64-cd4cd719"
+          class="eco-step-wrap center-mobile">
+            <h3 class="h3-step">Bet taker</h3>
+            <p class="p-step">Accepts the best bets in the BetU
+            Marketplace.</p>
+            <div class="step-number _2">
+              2
+            </div>
+          </div>
+        </div>
+        <div class="ecosystem-grid-3">
+        <div id=
+        "w-node-d12d8c3a-7914-9248-d0b1-f2f3babc3a8d-cd4cd719"
+        class="eco-step-wrap">
+          <h3>Live bet</h3>
+          <p class="p-step">The bet is confirmed in a smart
+          contract and BETU tokens are locked.</p>
+          <div class="step-number _3">
+            3
+          </div>
+        </div><img src=
+        "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60e2888d04d21505432fa7f4_bet-confirmed.svg"
+        loading="lazy" style="opacity:0" data-w-id=
+        "a70d0dfa-3df9-2779-a637-ebf90c00be93" alt=
+        "Bet Confirmed in BETU Tokens" id=
+        "w-node-a70d0dfa-3df9-2779-a637-ebf90c00be93-cd4cd719"
+        class="live-bet-img"></div>
+        <div class="ecosystem-grid-4">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d992d4c2f1e40aa01a97c6_4.svg"
+          loading="lazy" style="opacity:0" data-w-id=
+          "a39578b6-239e-35e6-2d69-05f016369d42" alt=
+          "Winning Better" id=
+          "w-node-a39578b6-239e-35e6-2d69-05f016369d42-cd4cd719"
+          class="live-bet-img">
+          <div id=
+          "w-node-a39578b6-239e-35e6-2d69-05f016369d3b-cd4cd719"
+          class="eco-step-wrap">
+            <h3>Winner</h3>
+            <p class="p-step">The winning bettor receives payout in
+            BETU tokens in their wallet.</p>
+            <div class="step-number _3">
+              4
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="token" class="section token wf-section">
+    <div class="main-container">
+      <div class="center-content limit-770 bot-mar-100">
+        <h2 class="h2-anim">Betu token<span class=
+        "yellow-dot">.</span><br>
+        the future of online betting<span class=
+        "yellow-dot">.</span></h2>
+        <p data-w-id="31a48107-e5e0-b02a-514e-701bc8a88bea" style=
+        "opacity:0" class="big-paragraph paragraph-limit-540">The
+        BETU token powers the entire ecosystem</p>
+        <div class="token-cta-wrap">
+          <a data-w-id="785d83c7-c321-f45f-33c0-4b98c432f83d"
+          style="opacity:0" href="https://t.me/betucommunity"
+          target="_blank" class="cta w-button">Join Telegram</a>
+        </div>
+      </div>
+      <div data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8174" class=
+      "token-grid">
+        <div id=
+        "w-node-_0d8cbc06-9e11-23e1-94e0-21e2057b8175-cd4cd719"
+        data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8175" class=
+        "token-icon-wrap icon-1">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d175640a9b37216a3631_gambling%201.svg"
+          loading="lazy" alt="Betting" class=
+          "token-icon-image small-icon">
+          <h4 class="token-h4">Betting</h4>
+          <p class="paragraph-extra-small token-par">Bets will be
+          placed with BETU and other major cryptocurrency.</p>
+        </div>
+        <div id=
+        "w-node-_0d8cbc06-9e11-23e1-94e0-21e2057b817b-cd4cd719"
+        data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b817b" class=
+        "token-icon-wrap icon-2">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d175640a9b88e66a3639_umbrella%201.svg"
+          loading="lazy" alt="Governance" class=
+          "token-icon-image small-icon">
+          <h4 class="token-h4">Governance</h4>
+          <p class="paragraph-extra-small token-par">BETU Token
+          holders will govern the BetU ecosystem via voting
+          rights.</p>
+        </div>
+        <div id=
+        "w-node-_0d8cbc06-9e11-23e1-94e0-21e2057b8181-cd4cd719"
+        data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8181" class=
+        "token-icon-wrap icon-3">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60e2e193365ff2152508e920_charity.svg"
+          loading="lazy" alt="Honesty Reserve" class=
+          "token-icon-image small-icon">
+          <h4 class="token-h4">Charity</h4>
+          <p class="paragraph-extra-small token-par">The BetU
+          Charity supports vulnerable children impacted by gambling
+          addiction.</p>
+        </div>
+        <div id=
+        "w-node-_0d8cbc06-9e11-23e1-94e0-21e2057b8187-cd4cd719"
+        data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8187" class=
+        "token-icon-wrap icon-4">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d1752d9aafe627f75b8a_hot-or-burn-interface-symbol%201.svg"
+          loading="lazy" alt="Token burning" class=
+          "token-icon-image small-icon">
+          <h4 class="token-h4">Token burning</h4>
+          <p class="paragraph-extra-small token-par">BETU Tokens
+          are burnt after every winning bet & if bettors attempt to
+          cheat.</p>
+        </div>
+        <div id=
+        "w-node-_0d8cbc06-9e11-23e1-94e0-21e2057b818d-cd4cd719"
+        data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b818d" class=
+        "token-icon-wrap icon-5">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6230529b45dbe5f1bdc2fce5_earn-u-logo-white.svg"
+          loading="lazy" alt="Referees" class=
+          "token-icon-image small-icon fantasy-icon">
+          <h4 class="token-h4">EArnu</h4>
+          <p class="paragraph-extra-small token-par">
+          Predict-to-earn.<br>
+          Free to play for<br>
+          BETU token holders.  </p><a href=
+          "http://betuearn.com" target="_blank" class=
+          "learn-more-link-block w-inline-block">
+          <div>
+            Learn more
+          </div><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/610cc6b21c38b32ecd500a71_arrow-up-right-white.svg"
+          loading="lazy" alt="" class="external-learn-more"></a>
+        </div>
+        <div id=
+        "w-node-_0d8cbc06-9e11-23e1-94e0-21e2057b8193-cd4cd719"
+        data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8193" class=
+        "token-icon-wrap icon-6">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d175907ce35a89b6fcda_gift.svg"
+          loading="lazy" alt="Betting rewards" class=
+          "token-icon-image small-icon">
+          <h4 class="token-h4">Betting rewards</h4>
+          <p class="paragraph-extra-small token-par">Leading
+          bettors are incentivized with BETU Tokens.</p>
+        </div>
+        <div id=
+        "w-node-_0d8cbc06-9e11-23e1-94e0-21e2057b8199-cd4cd719"
+        data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b8199" class=
+        "token-icon-wrap icon-7">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d176f9882a7106c00fd5_layers.svg"
+          loading="lazy" alt="Staking rewards" class=
+          "token-icon-image small-icon">
+          <h4 class="token-h4">Staking rewards</h4>
+          <p class="paragraph-extra-small token-par">Holders can
+          stake BETU on <a href=
+          "https://www.betu.io/blog/betu-token-staking-beefy"
+          target="_blank" class="white-link-new">Beefy</a> or add
+          liquidity on <a href=
+          "https://www.betu.io/blog/pancakeswap-liquidity-115"
+          class="white-link-new">PancakeSwap</a> for rewards.</p>
+        </div>
+        <div id=
+        "w-node-_0d8cbc06-9e11-23e1-94e0-21e2057b819f-cd4cd719"
+        data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b819f" class=
+        "token-icon-wrap icon-8">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d176ebd7c15df3014a78_whale%201.svg"
+          loading="lazy" alt="Whale holder" class=
+          "token-icon-image small-icon">
+          <h4 class="token-h4">Whale holder</h4>
+          <p class="paragraph-extra-small token-par">Whale holders
+          get superior odds & incentives.</p>
+        </div>
+        <div id=
+        "w-node-_0d8cbc06-9e11-23e1-94e0-21e2057b81a5-cd4cd719"
+        data-w-id="0d8cbc06-9e11-23e1-94e0-21e2057b81a5" class=
+        "token-master-wrao">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6e0e0305b594e16e5f331_full-token.svg"
+          loading="lazy" alt="BETU Token" class="full-token-image">
+          <div data-w-id="014fd7ef-5b36-b759-ed8e-62545fc92fcf"
+          style=
+          "-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:1"
+          class="token-pulse-div"></div>
+        </div>
+        <div id=
+        "w-node-_44f3008c-64a0-0998-8c7f-42d2ca1887b8-cd4cd719"
+        class="token-icon-wrap icon-extra">
+          <img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61cce1b66c8c4a82af67e7c7_NFT-BETU.svg"
+          loading="lazy" alt="Whale holder" class=
+          "token-icon-image nft">
+          <h4 class="token-h4">NFT</h4>
+          <p class="paragraph-extra-small token-par">Own exclusive
+          NFT's within the BetU Verse.</p>
+        </div>
+      </div>
+      <div data-w-id="dffa2476-19f9-82a5-f02c-93a28aa9fad2" class=
+      "token-sticky-master hide-token">
+        <div class="token-grid">
+          <div id=
+          "w-node-_4f17e3fc-9dca-1369-25ae-54634ddc7815-cd4cd719"
+          class="token-icon-wrap icon-1">
+            <img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d175640a9b37216a3631_gambling%201.svg"
+            loading="lazy" alt="" class=
+            "token-icon-image responsive-icon">
+            <h4 class="responsive-h4">Betting</h4>
+            <p class="paragraph-small responsive-small">All bets
+            must be placed with BetU Token.</p>
+          </div>
+          <div id=
+          "w-node-ef26de31-6896-4721-9a94-71ea0b805936-cd4cd719"
+          class="token-icon-wrap icon-2">
+            <img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d175640a9b88e66a3639_umbrella%201.svg"
+            loading="lazy" alt="" class=
+            "token-icon-image responsive-icon">
+            <h4 class="responsive-h4">Governance</h4>
+            <p class="paragraph-small responsive-small">BetU Token
+            holders will govern the BetU ecosystem via voting
+            rights.</p>
+          </div>
+          <div id=
+          "w-node-_2bab792f-31e4-cead-698e-bc80eb43b328-cd4cd719"
+          class="token-icon-wrap icon-3">
+            <img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d1764664aab45bd48eb4_heart.svg"
+            loading="lazy" alt="" class=
+            "token-icon-image responsive-icon">
+            <h4 class="responsive-h4">Honesty Reserve</h4>
+            <p class="paragraph-small responsive-small">BetU Tokens
+            are held to ecourage honest results.</p>
+          </div>
+          <div id=
+          "w-node-d81af37b-5cb0-7a87-ac8e-11d121d10023-cd4cd719"
+          class="token-icon-wrap icon-4">
+            <img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d1752d9aafe627f75b8a_hot-or-burn-interface-symbol%201.svg"
+            loading="lazy" alt="" class=
+            "token-icon-image responsive-icon">
+            <h4 class="responsive-h4">Token burning</h4>
+            <p class="paragraph-small responsive-small">BetU Tokens
+            are burnt if betters attempt to cheat.</p>
+          </div>
+          <div id=
+          "w-node-_0e01618f-65ec-e6f7-927e-72859cd97a5c-cd4cd719"
+          class="token-icon-wrap icon-5">
+            <img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d175ac258c79bf8d621b_users.svg"
+            loading="lazy" alt="" class=
+            "token-icon-image responsive-icon">
+            <h4 class="responsive-h4">Referees</h4>
+            <p class="paragraph-small responsive-small">Referees
+            are rewarded in BetU Tokens.</p>
+          </div>
+          <div id=
+          "w-node-_774b4e37-c823-29bf-df1a-3c148466effd-cd4cd719"
+          class="token-icon-wrap icon-6">
+            <img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d175907ce35a89b6fcda_gift.svg"
+            loading="lazy" alt="" class=
+            "token-icon-image responsive-icon">
+            <h4 class="responsive-h4">Betting rewards</h4>
+            <p class="paragraph-small responsive-small">Leading
+            betters are incentivized with BetU Tokens.</p>
+          </div>
+          <div id=
+          "w-node-_7f460c4b-84ac-e66b-4196-a2b542cc91b3-cd4cd719"
+          class="token-icon-wrap icon-7">
+            <img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d176f9882a7106c00fd5_layers.svg"
+            loading="lazy" alt="" class=
+            "token-icon-image responsive-icon">
+            <h4 class="responsive-h4">Staking rewards</h4>
+            <p class="paragraph-small responsive-small">All holders
+            can stake BetU Tokens to earn rewards.</p>
+          </div>
+          <div id=
+          "w-node-_0913cdf2-bbdf-71e3-5320-d71a32d79469-cd4cd719"
+          class="token-icon-wrap icon-8">
+            <img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d176ebd7c15df3014a78_whale%201.svg"
+            loading="lazy" alt="" class=
+            "token-icon-image responsive-icon">
+            <h4 class="responsive-h4">Whale holder</h4>
+            <p class="paragraph-small responsive-small">Whale
+            holders will pay zero winning fees.</p>
+          </div>
+          <div id=
+          "w-node-_521abc95-f657-ed03-bed1-23328a90ea94-cd4cd719"
+          class="token-master-wrao"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d40e4fceb7e46c8f379a_token-bg.svg"
+          loading="lazy" alt="" class="token-background"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c6d82fac258c74848d7bd3_token-value.svg"
+          loading="lazy" alt="" class="token-u"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section ico wf-section">
+    <div class="main-container">
+      <div class="center-content limit-770 ico-heading">
+        <h2 class="h2-anim">Token Distribution<span class=
+        "yellow-dot">.</span></h2>
+        <p data-w-id="79f18032-ae98-a452-9c06-d969cbff4f19" style=
+        "opacity:0" class="big-paragraph">The BETU token is a
+        Bep-20 token on Binance Smart Chain</p>
+      </div>
+      <div class="supply-master-wrap">
+        <div class="charts-master">
+          <div data-w-id="ebbc4ebb-04ad-a5da-cf92-3e75e01ba46f"
+          style="opacity:0" class="chart-background">
+            <h4>Token DiStribution</h4>
+            <div class="chart-embed w-embed">
+              <canvas id="distChart" width="100%" height="auto">
+              </canvas>
+            </div>
+            <div class="chart-legend-wrap">
+              <div class="chart-single-legend">
+                <div class="legend-color"></div>
+                <div>
+                  Public Sale - 25%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color td-2"></div>
+                <div>
+                  Team - 20%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color td-3"></div>
+                <div>
+                  Marketing / Partnerships - 10%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color td-4"></div>
+                <div>
+                  User Incentives / Bonuses - 10%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color td-5"></div>
+                <div>
+                  Foundation - 10%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color td-6"></div>
+                <div>
+                  Exchanges / Liquidity - 10%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color td-7"></div>
+                <div>
+                  First Year Staking Rewards - 7.5%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color td-8"></div>
+                <div>
+                  Advisors - 2.5%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color td-9"></div>
+                <div>
+                  Institutional Investors / VC's - 2.5%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color td-10"></div>
+                <div>
+                  Pre Sale -  2.5%
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id=
+          "w-node-dcb862e5-e9cc-48d3-37b0-51b3e54da010-cd4cd719"
+          data-w-id="dcb862e5-e9cc-48d3-37b0-51b3e54da010" class=
+          "chart-background">
+            <h4>ICO Fund Allocation</h4>
+            <div class="chart-embed w-embed">
+              <canvas id="icoChart" width="100%" height="auto">
+              </canvas>
+            </div>
+            <div class="chart-legend-wrap">
+              <div class="chart-single-legend">
+                <div class="legend-color if-1"></div>
+                <div>
+                  Development - 25%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color if-2"></div>
+                <div>
+                  Marketing / Customer Acquisition - 25%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color if-3"></div>
+                <div>
+                  Exchanges / Liquidity - 20%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color if-4"></div>
+                <div>
+                  Operations - 15%
+                </div>
+              </div>
+              <div class="chart-single-legend">
+                <div class="legend-color if-5"></div>
+                <div>
+                  Legal / Licensing -15%
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="follow-token">
+        <div>
+          Follow BETU Token on:
+        </div>
+        <div class="follow-links-wrap">
+          <a href=
+          "https://pancakeswap.finance/info/token/0x0df1b3f30865c5b324797f8db9d339514cac4e94"
+          target="_blank" class=
+          "follow-link-block w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61377071b1a5d55402600dca_pancakewhite.svg"
+          loading="lazy" alt="" class="follow-image"></a><a href=
+          "https://www.bitmart.com/trade/en?symbol=BETU_USDT"
+          target="_blank" class=
+          "follow-link-block w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/614d8f62fbc157b122aa9758_bitmartwhite.svg"
+          loading="lazy" alt="" class=
+          "follow-image bm"></a><a href="https://www.gate.io/trade/BETU_USDT"
+          target="_blank" class=
+          "follow-link-block w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/618c18c4ef2495bb08e47d84_gtwhite.svg"
+          loading="lazy" alt="" class=
+          "follow-image bm"></a><a href="https://www.coingecko.com/en/coins/betu"
+          target="_blank" class=
+          "follow-link-block w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6137707040fd4bd337e0530a_Coingecko.svg"
+          loading="lazy" alt="" class=
+          "follow-image cg"></a><a href="https://coinmarketcap.com/currencies/betu/"
+          target="_blank" class=
+          "follow-link-block w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61377071dc8fbf14800d1a10_cmc.svg"
+          loading="lazy" alt="" class="follow-image cmc"></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="main-container">
+    <div class="general-divider"></div>
+  </div>
+  <div id="team" class="section team wf-section">
+    <div class="main-container">
+      <div class="center-content">
+        <h2 class="h2-anim">Great team for great crypto<span class=
+        "yellow-dot">.</span></h2>
+        <p data-w-id="b5de3d6b-8461-d94a-3b02-69932f627331" style=
+        "opacity:0" class=
+        "big-paragraph paragraph-limit-500 mobile-440">Our team has
+        the experience to deliver a world class betting platform
+        and a top ranked token.</p>
+        <div class="team-cta-wrao">
+          <a data-w-id="344bfadc-e42f-e038-8825-40bf5493e1c7"
+          style="opacity:0" href="/team" class="cta w-button">Meet
+          all team</a>
+        </div>
+      </div>
+    </div>
+    <div class="wrapper-slider">
+      <div class="main-container team-container">
+        <div class="team-slider-wrap">
+          <div data-delay="4000" data-animation="slide" class=
+          "team-slider w-slider" data-autoplay="false" data-easing=
+          "ease" data-hide-arrows="false" data-disable-swipe=
+          "false" data-autoplay-limit="0" data-nav-spacing="3"
+          data-duration="500" data-infinite="true">
+            <div class="slider-mask w-slider-mask">
+              <div data-w-id="18434e5b-d3b1-581c-9115-645528d60817"
+              class="item _wf-slider-item w-slide">
+                <div class="team-inside t-1">
+                  <div class="inside-overlay">
+                    <div class="inside-name">
+                      Paul Rogash
+                    </div>
+                    <div class="inside-divider"></div>
+                    <div class="inside-text">
+                      Experienced entrepreneur, founded and
+                      sold MachineSales.com,  Lawyers SEO
+                      & Escalated Advertising. Contract
+                      marketing roles in crypto saw projects
+                      increase 30x & 20x in 3 months. BBA in
+                      Entrepreneurship at Royal Melbourne Institute
+                      of Technology.
+                    </div><a href=
+                    "https://www.linkedin.com/in/paul-rogash-72497622/"
+                    target="_blank" class=
+                    "linkedin w-inline-block"></a>
+                  </div>
+                </div>
+                <div class="team-bottom-wrap">
+                  <h4 class="team-name">Paul Rogash</h4>
+                  <div class="team-position-wrap">
+                    <p class="paragraph-extra-small position-team">
+                    CEO</p>
+                  </div>
+                </div>
+              </div>
+              <div class="item _wf-slider-item w-slide">
+                <div class="team-inside t-2">
+                  <div class="inside-overlay">
+                    <div class="inside-name">
+                      Graham Malone<br>
+                    </div>
+                    <div class="inside-divider"></div>
+                    <div class="inside-text">
+                      Specializes in building complex, high growth
+                      products at innovative tech companies
+                      including: Antler, Plotly & MicroStategy.
+                      Polkadot Ambassador. Expert knowledge of
+                       Peer-to-peer platforms. Dip. Computer
+                      Engineering & N.D Blockchain Development.
+                    </div><a href=
+                    "https://www.linkedin.com/in/grahammalone/"
+                    target="_blank" class=
+                    "linkedin w-inline-block"></a>
+                  </div>
+                </div>
+                <div class="team-bottom-wrap">
+                  <h4 class="team-name"><em>Graham
+                  Malone</em><br></h4>
+                  <div class="team-position-wrap">
+                    <p class="paragraph-extra-small position-team">
+                    CPO</p>
+                  </div>
+                </div>
+              </div>
+              <div data-w-id="3b9f7a3a-f64e-1d5f-4773-2789c5a040ef"
+              class="item _wf-slider-item w-slide">
+                <div class="team-inside t-4">
+                  <div class="inside-overlay">
+                    <div class="inside-name">
+                      Scott Parry<br>
+                    </div>
+                    <div class="inside-divider"></div>
+                    <div class="inside-text">
+                      19 years as CEO of Crown Money Management,
+                      Australia’s leading money management company.
+                      Scott is regularly featured in Australian
+                      media providing debt reduction advice and
+                      money coaching to consumers and
+                      businesses.<br>
+                    </div><a href=
+                    "https://www.linkedin.com/in/scottparryaustralia/"
+                    target="_blank" class=
+                    "linkedin w-inline-block"></a>
+                  </div>
+                </div>
+                <div class="team-bottom-wrap">
+                  <h4 class="team-name">Scott Parry</h4>
+                  <div class="team-position-wrap">
+                    <p class="paragraph-extra-small position-team">
+                    CFO</p>
+                  </div>
+                </div>
+              </div>
+              <div data-w-id="94bf0623-2412-7655-d51f-63607262baca"
+              class="item _wf-slider-item w-slide">
+                <div class="team-inside t-3">
+                  <div class="inside-overlay">
+                    <div class="inside-name">
+                      Brent Booher<br>
+                    </div>
+                    <div class="inside-divider"></div>
+                    <div class="inside-text">
+                      Creator of twitter accounts @FauxJohnMadden
+                      &@PretendLouHoltz with 250K followers and
+                      featured on ESPN & Sports Illustrated. 9
+                      years in social media management, including
+                      18 months at OddsUSA and marketing campaigns
+                      with FanDuel & DraftKings.
+                    </div><a href="#" class=
+                    "linkedin hide-link w-inline-block"></a>
+                  </div>
+                </div>
+                <div class="team-bottom-wrap">
+                  <h4 class="team-name">Brent Booher<br></h4>
+                  <div class="team-position-wrap">
+                    <p class="paragraph-extra-small position-team">
+                    Social Media Manager<br></p>
+                  </div>
+                </div>
+              </div>
+              <div data-w-id="70cb33a0-15b0-b724-6b66-efd28dda5e59"
+              class="item _wf-slider-item w-slide">
+                <div class="team-inside t-5">
+                  <div class="inside-overlay">
+                    <div class="inside-name">
+                      Jason Vu<br>
+                    </div>
+                    <div class="inside-divider"></div>
+                    <div class="inside-text">
+                      Experienced in taking large scale web
+                      projects through conception, development and
+                      delivery. A team member at Sotatek, the
+                      developers of VCC crypto Exchange, Sota
+                      Finance NFT marketplace and Travala the
+                      travel booking site.<br>
+                    </div><a href="#" class=
+                    "linkedin hide-link w-inline-block"></a>
+                  </div>
+                </div>
+                <div class="team-bottom-wrap">
+                  <h4 class="team-name"><em>Jason Vu</em><br></h4>
+                  <div class="team-position-wrap">
+                    <p class="paragraph-extra-small position-team">
+                    Project Manager<br></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div data-w-id="18434e5b-d3b1-581c-9115-645528d60819"
+            class="arrow-slider-wf left-wg w-slider-arrow-left">
+            <img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d0220e07fddb67233c1fca_arrow-back.svg"
+            loading="lazy" alt="" class="arrow-image-slider"></div>
+            <div data-w-id="18434e5b-d3b1-581c-9115-645528d6081b"
+            class="arrow-slider-wf w-slider-arrow-right"><img src=
+            "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60cccad8777aec132997a8a9_arrow-bonus.svg"
+            loading="lazy" alt="" class="arrow-image-slider"></div>
+            <div class="slider-nav-hidden w-slider-nav w-round">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="roadmap" class="section roadmap wf-section">
+    <div class="main-container">
+      <div class="center-content limit-650">
+        <h2 class="h2-anim">Clear Roadmap<span class=
+        "yellow-dot">.</span><br>
+        For clear success<span class="yellow-dot">.</span></h2>
+      </div>
+    </div>
+    <div class="main-container roadmap-vertical-container">
+      <div class="vertical-roadmap-wrap">
+        <div class="line-roadmap-vertical"></div>
+        <div class="roadmap-grid vertical-roadmap">
+          <div id=
+          "w-node-b58a307a-840c-2727-a1be-c09a1461aefe-cd4cd719"
+          data-w-id="b58a307a-840c-2727-a1be-c09a1461aefe" class=
+          "roadmap-icon-div"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60e29aced03c583c39f18a8a_roadmap-complete.svg"
+          loading="lazy" alt="" class="roadmap-icon-img"></div>
+          <div id=
+          "w-node-b58a307a-840c-2727-a1be-c09a1461af55-cd4cd719"
+          data-w-id="b58a307a-840c-2727-a1be-c09a1461af55" style=
+          "opacity:0" class="roadmap-box limited-vertical">
+            <h4>Q2 - 2021</h4>
+            <ul role="list" class="list-roadmap">
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Recruit initial team</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Incorporate BetU</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Draft legal documentation for ICO</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Sotatek development partnership</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Create token sale website & dashboard</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Commence design of betting platform
+                & requirements</p>
+              </li>
+            </ul>
+          </div>
+          <div id=
+          "w-node-b58a307a-840c-2727-a1be-c09a1461af00-cd4cd719"
+          class="roadmap-icon-div"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60e29aced03c583c39f18a8a_roadmap-complete.svg"
+          loading="lazy" data-w-id=
+          "b58a307a-840c-2727-a1be-c09a1461af01" alt="" class=
+          "roadmap-icon-img"></div>
+          <div id=
+          "w-node-b58a307a-840c-2727-a1be-c09a1461af06-cd4cd719"
+          data-w-id="b58a307a-840c-2727-a1be-c09a1461af06" style=
+          "opacity:0" class="roadmap-box limited-vertical">
+            <h4>Q3 - 2021</h4>
+            <ul role="list" class="list-roadmap">
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Launch token sale website & dashboard</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Hold pre sale & public sale - Raised $1.9
+                million USD</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Token generation event & listing on
+                PancakeSwap</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Listing on BitMart exchange</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Development of BetU platform - bookmaker
+                & peer to peer</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Integration with BetRadar / SportRadar</p>
+              </li>
+            </ul>
+          </div>
+          <div id=
+          "w-node-b58a307a-840c-2727-a1be-c09a1461af02-cd4cd719"
+          class="roadmap-icon-div"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60e29aced03c583c39f18a8a_roadmap-complete.svg"
+          loading="lazy" data-w-id=
+          "b58a307a-840c-2727-a1be-c09a1461af03" alt="" class=
+          "roadmap-icon-img"></div>
+          <div id=
+          "w-node-b58a307a-840c-2727-a1be-c09a1461af1c-cd4cd719"
+          data-w-id="b58a307a-840c-2727-a1be-c09a1461af1c" style=
+          "opacity:0" class="roadmap-box limited-vertical">
+            <h4>Q4 - 2021</h4>
+            <ul role="list" class="list-roadmap">
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Staking Rewards - Beefy & Pancake LP tokens
+                BETU / BNB</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Launch BetU Fantasy with EPL, NBA
+                & UFC leagues</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Listing on Gate.io</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Chainlink integration</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Applied for Curacao EGaming license</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Commenced security audit of BetU platform.</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Development of BetU Play-To-Earn</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Design and layout of BetU Verse resort
+                & casino</p>
+              </li>
+            </ul>
+          </div>
+          <div id=
+          "w-node-b58a307a-840c-2727-a1be-c09a1461af04-cd4cd719"
+          class="roadmap-icon-div"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60e29aced03c583c39f18a8a_roadmap-complete.svg"
+          loading="lazy" data-w-id=
+          "b58a307a-840c-2727-a1be-c09a1461af05" alt="" class=
+          "roadmap-icon-img"></div>
+          <div id=
+          "w-node-b58a307a-840c-2727-a1be-c09a1461af38-cd4cd719"
+          data-w-id="b58a307a-840c-2727-a1be-c09a1461af38" style=
+          "opacity:0" class="roadmap-box limited-vertical">
+            <h4>Q1 - 2022</h4>
+            <ul role="list" class="list-roadmap">
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Launch BetU Play-To-Earn - NBA, EPL, UFC,
+                LaLiga</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Complete security audit on BetU platform</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Obtain Curacao gaming license for BetU
+                & BetU Verse</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Integrate Oddin.gg for esport predictions and
+                streaming</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Rebrand BetU Play-To-Earn to EarnU</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Develop IOS & Android App for
+                EarnU</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Modeling, rigging & rendering 3D NFT's</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Development of BetU Verse casino floor
+                & animations</p>
+              </li>
+            </ul>
+          </div>
+          <div id=
+          "w-node-bb66f0d8-d131-1299-e71d-2020c99c8083-cd4cd719"
+          class="roadmap-icon-div"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c72174dd06b64022229d10_roadmap-hexagon.svg"
+          loading="lazy" data-w-id=
+          "bb66f0d8-d131-1299-e71d-2020c99c8084" alt="" class=
+          "roadmap-icon-img"></div>
+          <div id=
+          "w-node-_9a6f46a7-c9e4-d3eb-c758-01b7502b50ce-cd4cd719"
+          data-w-id="9a6f46a7-c9e4-d3eb-c758-01b7502b50ce" style=
+          "opacity:0" class="roadmap-box limited-vertical">
+            <h4>Q2- 2022</h4>
+            <ul role="list" class="list-roadmap">
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Hold BetU Verse avatar and condominium
+                NFT sale</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Attend ICE London</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Listing top 5 crypto exchange</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Launch IOS & Android App for EarnU</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Fiat onramp to purchase BETU tokens in
+                EarnU</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Launch BetU sports & esports betting
+                platform & casino</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Partner with crypto gaming projects for BetU Verse
+                entertainment complex</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Release branded casino table & slot
+                machine NFT collection</p>
+              </li>
+            </ul>
+          </div>
+          <div id=
+          "w-node-bc1fbcab-0f2c-564b-8384-d3eb4ee4bb52-cd4cd719"
+          class="roadmap-icon-div"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c72174dd06b64022229d10_roadmap-hexagon.svg"
+          loading="lazy" data-w-id=
+          "bc1fbcab-0f2c-564b-8384-d3eb4ee4bb53" alt="" class=
+          "roadmap-icon-img"></div>
+          <div id=
+          "w-node-_69fe6e93-4ebd-4aa5-601c-43bca23f71cd-cd4cd719"
+          data-w-id="69fe6e93-4ebd-4aa5-601c-43bca23f71cd" style=
+          "opacity:0" class="roadmap-box limited-vertical">
+            <h4>Q3/Q4 - 2022</h4>
+            <ul role="list" class="list-roadmap">
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Release BetU Verse casino floor - Slot machines,
+                blackjack, roulette, poker & more</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Growth of EarnU, BetU & BetU Verse
+                platforms</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Development of new community driven casino
+                games</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Development of BetU Verse hotel
+                & condominiums</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Development of BetU Verse entertainment complex</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                First world series BetU Verse poker tournament</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Hold FIFA world cup betting tournament</p>
+              </li>
+              <li class="listem-item-roadmap">
+                <p class=
+                "paragraph-small no-margin-small roadmap-small">
+                Significant donations to charities</p>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="ico-notify" class="section cta-block wf-section">
+    <div class="main-container cta-container">
+      <div data-w-id="9aaddc5b-635a-251d-f799-72b49d2b3831" class=
+      "cta-block-master">
+        <div class="cta-inside-content">
+          <h2>Stay up-to-date with<br>
+          BetU news.</h2>
+          <div class="cta-wrap">
+            <a data-w-id="917d8f14-a063-aeff-7719-fbe75508fa72"
+            href="https://discord.com/invite/betu" target="_blank"
+            class="cta big w-button">Join Discord</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="section blog-home wf-section">
+    <div class="main-container">
+      <div class="center-content limit-650">
+        <h2 class="h2-anim">Our blog<span class=
+        "yellow-dot">.</span><br></h2>
+        <p data-w-id="67bcf3d7-9d88-5d93-1b9c-af1e4d5af0f9" style=
+        "opacity:0" class="big-paragraph">All about betting,
+        cryptocurrencies and fun.<a href=
+        "https://betu-global.webflow.io/blog/5-of-the-largest-sports-betting-wins-in-history"><strong><br>
+        </strong></a></p>
+      </div>
+      <div class=
+      "blog-collection-wrapper on-home-blog-wrapper w-dyn-list">
+        <div role="list" class="blog-grid w-dyn-items">
+          <div id=
+          "w-node-bd8c8311-43d9-2de8-57b7-fd6e49033135-cd4cd719"
+          role="listitem" class="blog-item w-dyn-item">
+            <a data-w-id="bd8c8311-43d9-2de8-57b7-fd6e49033136"
+            href="/blog/jigs-betu-racing-preview-7-may-2022" class=
+            "blog-link-master on-dark-bg-link w-inline-block">
+            <div class="blog-tile">
+              <div class="blog-details dark-details">
+                <div>
+                  Betting
+                </div>
+              </div>
+              <h2 class="blog-title on-dark-title">Jig's BETU
+              Racing Preview - 7 May 2022</h2>
+              <p class=
+              "paragraph-small blog-tile-paragraph on-dark-tile-paragraph">
+              Jig previews the upcoming Australian thoroughbred
+              racing at Caulfield & Morphetville.</p>
+              <div class="blog-fake-bottom on-dark-fake-bottom">
+                <div class=
+                "blog-fake-bottom-date on-dark-fake-bottom-date">
+                  <img src=
+                  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61028677f9c62580cae15c54_calendar-od.svg"
+                  loading="lazy" alt="" class="blog-tile-icon">
+                  <div>
+                    May 6, 2022
+                  </div>
+                </div>
+                <div class="read-wrap on-dark-read-wrap">
+                  <img src=
+                  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6102867bbf7dff6db8157b67_book-open-od.svg"
+                  loading="lazy" alt="" class="blog-tile-icon">
+                  <div>
+                    4
+                  </div>
+                  <div>
+                    min
+                  </div>
+                </div>
+              </div>
+            </div></a>
+          </div>
+          <div id=
+          "w-node-bd8c8311-43d9-2de8-57b7-fd6e49033135-cd4cd719"
+          role="listitem" class="blog-item w-dyn-item">
+            <a data-w-id="bd8c8311-43d9-2de8-57b7-fd6e49033136"
+            href="/blog/jigs-betu-racing-preview-30-may-2022"
+            class="blog-link-master on-dark-bg-link w-inline-block">
+            <div class="blog-tile">
+              <div class="blog-details dark-details">
+                <div>
+                  Betting
+                </div>
+              </div>
+              <h2 class="blog-title on-dark-title">Jig's BETU
+              Racing Preview - 30 May 2022</h2>
+              <p class=
+              "paragraph-small blog-tile-paragraph on-dark-tile-paragraph">
+              Jig previews the Australian thoroughbred's at Sandown
+              & Morphetville this weekend.</p>
+              <div class="blog-fake-bottom on-dark-fake-bottom">
+                <div class=
+                "blog-fake-bottom-date on-dark-fake-bottom-date">
+                  <img src=
+                  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61028677f9c62580cae15c54_calendar-od.svg"
+                  loading="lazy" alt="" class="blog-tile-icon">
+                  <div>
+                    April 28, 2022
+                  </div>
+                </div>
+                <div class="read-wrap on-dark-read-wrap">
+                  <img src=
+                  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6102867bbf7dff6db8157b67_book-open-od.svg"
+                  loading="lazy" alt="" class="blog-tile-icon">
+                  <div>
+                    2
+                  </div>
+                  <div>
+                    min
+                  </div>
+                </div>
+              </div>
+            </div></a>
+          </div>
+          <div id=
+          "w-node-bd8c8311-43d9-2de8-57b7-fd6e49033135-cd4cd719"
+          role="listitem" class="blog-item w-dyn-item">
+            <a data-w-id="bd8c8311-43d9-2de8-57b7-fd6e49033136"
+            href=
+            "/blog/nrl-round-8-tips-predictions-with-braith-anasta"
+            class=
+            "blog-link-master on-dark-bg-link w-inline-block">
+            <div class="blog-tile">
+              <div class="blog-details dark-details">
+                <div>
+                  EarnU Predictions
+                </div>
+              </div>
+              <h2 class="blog-title on-dark-title">NRL Round 8 Tips
+              & Predictions with Braith Anasta</h2>
+              <p class=
+              "paragraph-small blog-tile-paragraph on-dark-tile-paragraph">
+              NRL legend Braith Anasta gives his tips & predictions
+              for round 8 of the NRL.</p>
+              <div class="blog-fake-bottom on-dark-fake-bottom">
+                <div class=
+                "blog-fake-bottom-date on-dark-fake-bottom-date">
+                  <img src=
+                  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61028677f9c62580cae15c54_calendar-od.svg"
+                  loading="lazy" alt="" class="blog-tile-icon">
+                  <div>
+                    April 28, 2022
+                  </div>
+                </div>
+                <div class="read-wrap on-dark-read-wrap">
+                  <img src=
+                  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/6102867bbf7dff6db8157b67_book-open-od.svg"
+                  loading="lazy" alt="" class="blog-tile-icon">
+                  <div>
+                    2
+                  </div>
+                  <div>
+                    min
+                  </div>
+                </div>
+              </div>
+            </div></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer data-w-id="2d7e7189-c642-6198-b12a-cc7f26c8bc19" class=
+  "section footer wf-section">
+    <div class="main-container">
+      <div class="footer-top-wrap">
+        <div class="footer-top-left-wrap">
+          <a href="#" class=
+          "foot-logo-link-block w-inline-block"><img src=
+          "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60c729d384e339748edd9e8d_bet-u-logo.svg"
+          loading="lazy" alt="BetU Logo" class=
+          "footer-logo-image"></a>
+          <p class="paragraph-small footer-under-logo">Join our
+          community of sporting fanatics, crypto enthusiasts and
+          gamblers.</p>
+          <div class="cta-wrap-footer">
+            <a href="https://t.me/betucommunity" target="_blank"
+            class="cta w-inline-block">
+            <div class="cta-text">
+              Join Telegram
+            </div></a>
+          </div>
+        </div>
+        <div class="footer-top-right-wrap">
+          <ul role="list" class=
+          "footer-list first-list w-list-unstyled">
+            <li class="footer-list-item top-item">
+              <div>
+                Our Platforms
+              </div>
+            </li>
+            <li class="footer-list-item">
+              <a href="/" aria-current="page" class=
+              "footer-link w--current">BetU</a>
+            </li>
+            <li class="footer-list-item">
+              <a href="https://earnu.io/" class=
+              "footer-link">EarnU</a>
+            </li>
+            <li class="footer-list-item">
+              <a href="http://betuverse.io" target="_blank" class=
+              "footer-link">BetU Verse</a>
+            </li>
+          </ul>
+          <ul role="list" class="footer-list w-list-unstyled">
+            <li class="footer-list-item top-item">
+              <div>
+                BetU
+              </div>
+            </li>
+            <li class="footer-list-item">
+              <a href="/#ecosystem" class="footer-link">Our
+              ecosystem</a>
+            </li>
+            <li class="footer-list-item">
+              <a href="/#token" class="footer-link">BETU Token</a>
+            </li>
+            <li class="footer-list-item">
+              <a href="/#platform" class="footer-link">Platform</a>
+            </li>
+            <li class="footer-list-item">
+              <a href="https://betu-1.gitbook.io/betu/" target=
+              "_blank" class="footer-link">Whitepaper</a>
+            </li>
+            <li class="footer-list-item">
+              <a id="whitepaper.pdf" href="/investor-deck" class=
+              "footer-link">Investor Deck</a>
+            </li>
+            <li class="footer-list-item">
+              <a id="whitepaper.pdf" href="/blog" class=
+              "footer-link">Blog</a>
+            </li>
+          </ul>
+          <ul role="list" class="footer-list w-list-unstyled">
+            <li class="footer-list-item top-item">
+              <div>
+                About us
+              </div>
+            </li>
+            <li class="footer-list-item">
+              <a href="/team" class="footer-link">Team</a>
+            </li>
+            <li class="footer-list-item">
+              <a href="/#industry" class="footer-link">Industry</a>
+            </li>
+            <li class="footer-list-item">
+              <a href="/#roadmap" class="footer-link">Roadmap</a>
+            </li>
+            <li class="footer-list-item">
+              <a href="https://jobs.recooty.com/betu" class=
+              "footer-link">Careers <span class=
+              "text-notification">we're hiring!</span></a>
+            </li>
+            <li class="footer-list-item">
+              <a href="/brand-assets" class="footer-link">Brand
+              assets</a>
+            </li>
+            <li class="footer-list-item">
+              <a href="/audit" class="footer-link">Audit</a>
+            </li>
+          </ul>
+          <ul role="list" class=
+          "footer-list footer-list-right w-list-unstyled">
+            <li class="footer-list-item top-item">
+              <div>
+                Stay in touch
+              </div>
+            </li>
+            <li class="footer-list-item">
+              <a href="https://discord.com/invite/betu" target=
+              "_blank" class=
+              "footer-link social-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61a3761f50cea9fdd29f8c6a_discord.svg"
+              loading="lazy" alt="" class="social-icon-footer">
+              <div>
+                Discord
+              </div></a>
+            </li>
+            <li class="footer-list-item">
+              <a href="https://t.me/betucommunity" target="_blank"
+              class=
+              "footer-link social-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d05fee1f37e1e1f3f9e43f_telegram%201.svg"
+              loading="lazy" alt="Telegram" class=
+              "social-icon-footer">
+              <div>
+                Telegram
+              </div></a>
+            </li>
+            <li class="footer-list-item">
+              <a href="https://twitter.com/betuglobal" target=
+              "_blank" class=
+              "footer-link social-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1c07b8639acac5be8c67a_twitter%201.svg"
+              loading="lazy" alt="Twitter" class=
+              "social-icon-footer">
+              <div>
+                Twitter
+              </div></a>
+            </li>
+            <li class="footer-list-item">
+              <a href="https://instagram.com/betuglobal" target=
+              "_blank" class=
+              "footer-link social-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d05fee76f35fffd9f787a7_instagram%201.svg"
+              loading="lazy" alt="Instagram" class=
+              "social-icon-footer">
+              <div>
+                Instagram
+              </div></a>
+            </li>
+            <li class="footer-list-item">
+              <a href="https://reddit.com/r/betuglobal" target=
+              "_blank" class=
+              "footer-link social-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/60d1c07bfbcd54064746f417_reddit%201.svg"
+              loading="lazy" alt="Reddit" class=
+              "social-icon-footer">
+              <div>
+                Reddit
+              </div></a>
+            </li>
+            <li class="footer-list-item">
+              <a href=
+              "https://www.youtube.com/channel/UCgwmS0tGe20H9tz0-_9AWow"
+              target="_blank" class=
+              "footer-link social-link w-inline-block"><img src=
+              "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/61278ebdc65ee07f5f7ec715_youtube-white.svg"
+              loading="lazy" alt="" class="social-icon-footer">
+              <div>
+                YouTube
+              </div></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-disclaimer-wrap">
+        <div>
+          BetU encourages responsible gambling
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom-wrap">
+      <div class="main-container">
+        <div class="footer-bottom-split">
+          <div class="footer-bottom-left">
+            <div class="footer-text">
+              Copyright BetU 2021
+            </div>
+          </div>
+          <div class="footer-bottom-right">
+            <a href="/legal/privacy-policy" class=
+            "footer-text right">Privacy Policy</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src=
+  "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=60c34da0dc6e7ca3684cd718"
+  type="text/javascript" integrity=
+  "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+  crossorigin="anonymous"></script>
+  <script src=
+  "https://uploads-ssl.webflow.com/60c34da0dc6e7ca3684cd718/js/webflow.2297ce2a6.js"
+  type="text/javascript"></script>
+  <!--[if lte IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
+  
+  <script src=
+  "https://cdn.jsdelivr.net/npm/chart.js@3.3.2/dist/chart.min.js"></script>
+  
+  <script>
+
+
+
+  var ctToken = document.getElementById('distChart').getContext('2d');
+  var ctIco = document.getElementById('icoChart').getContext('2d');
+
+
+  const dataToken = {
+
+  labels: [
+    'Public Sale',
+    'Team',
+    'Marketing / Partnerships',
+    'User Incentives / Bonuses',
+    'Foundation',
+    'Exchanges / Liquidity',
+    'First Year Staking Rewards',
+    'Advisors',
+    "Institutional Investors / VC's",
+    'Pre Sale'
+  ],
+  datasets: [{
+    data: [25, 20, 10, 10, 10, 10, 7.5, 2.5, 2.5, 2.5],
+    backgroundColor: [
+      '#8A3FFC',
+      '#33B1FF',
+      '#007D79',
+      '#FF7EB6',
+      '#FA4D56',
+      '#FFF1F1',
+      '#6FDC8C',
+      '#4589FF',
+      '#D12771',
+      '#f8cb48'
+      
+    ],
+    borderWidth: 0,    
+    hoverOffset: 4
+  }]
+  };
+
+  var chartToken = new Chart(ctToken, {
+    type: 'pie',
+    data: dataToken,     
+      options: {
+        plugins: {
+            tooltip: {
+                callbacks: {
+                    label: function(context) {
+                                console.log(context.label, context.parsed);
+                        var label = context.label || '';
+
+                        if (label) {
+                            label += ': ';
+                        }
+                        
+                        label = label + context.parsed + "%";                        
+                        return label;
+                    }
+                }
+            },
+            legend: {
+                        display: false
+                        } 
+        }
+        
+    }
+  });
+
+  const dataIco = {
+
+  labels: [
+    'Development',
+    'Marketing / Customer Acquisition',
+    'Exchanges / Liquidity',
+    'Operations',
+    'Legal / Licensing'    
+  ],
+  datasets: [{
+    data: [25, 25, 20, 15, 15],
+    backgroundColor: [
+      '#F8CB48',
+      '#FFDC77',
+      '#FFEEBB',
+      '#FFFFFF',
+      '#E7E7E7',
+      
+    ],
+    borderWidth: 0,    
+    hoverOffset: 4
+  }]
+  };
+
+  var chartIco = new Chart(ctIco, {
+    type: 'doughnut',
+    data: dataIco,     
+      options: {
+        plugins: {
+            tooltip: {
+                callbacks: {
+                    label: function(context) {
+                                console.log(context.label, context.parsed);
+                        var label = context.label || '';
+
+                        if (label) {
+                            label += ': ';
+                        }
+                        
+                        label = label + context.parsed + "%";                        
+                        return label;
+                    }
+                }
+            },
+            legend: {
+                        display: false
+                        } 
+        }
+        
+    }
+  });
+
+  </script>
+</body>
+</html>
